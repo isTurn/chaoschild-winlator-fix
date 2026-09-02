@@ -1,0 +1,21 @@
+# 排除游戏本体与受版权保护内容（严禁上传）
+Game.exe
+Game.exe.*
+Launcher.exe
+Launcher.exe.bak
+启动游戏.exe
+USRDIR/
+汉化补丁/
+*.mpk
+*.bin
+manual.pdf
+*.iso
+*.zip
+
+# 系统 / 临时文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+__pycache__/
+*.pyc
